@@ -9,9 +9,15 @@ Uses advanced data structures and algorithms to ensure optimal performance.
 User-friendly interface for ease of use.
 Technical Details:
 
-# Language: C++
-# Key Algorithms: Graph data structures, Dijkstra's algorithm
-Usage:
+# Language: 
+
+C++
+
+# Key Algorithms: 
+
+Graph data structures, Dijkstra's algorithm
+
+# Usage:
 
 Compile the project using your preferred C++ compiler.
 
@@ -19,5 +25,6 @@ Run the executable and input the source and destination stations.
 Receive the shortest path and distance between the selected stations.
 
 # Contributions:
+
 Feel free to contribute by opening issues or submitting pull requests. Any enhancements, bug fixes, or suggestions are welcome!
 
